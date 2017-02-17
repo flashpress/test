@@ -1,1 +1,5 @@
-<iframe src="https://raw.githubusercontent.com/flashpress/test/master/index.html"></iframe>
+<script>
+console.log('123');
+alert(1);
+</script>
+<b>123</b>
